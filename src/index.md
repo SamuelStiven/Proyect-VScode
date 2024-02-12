@@ -10,3 +10,4 @@ Mowgli es entonces presentado en el Consejo de la roca del congreso,
         manada ofreciendo a ésta un buey sisas acaba de matar. La manada
          acepta de buena gana el regalo y así Mowgli pasa a formar
           parte de la manada de lobos.
+          cambio de la nueva rama
